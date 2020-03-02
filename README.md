@@ -1,1 +1,1 @@
-# Gitstudy
+# Git and Java Study
